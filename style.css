@@ -10,3 +10,9 @@ body{
   .my__foto{
     size: 10%;
   }
+
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
